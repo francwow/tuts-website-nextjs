@@ -1,7 +1,7 @@
 import About from "../../../components/About";
 
-const Acerca = ({ setNavActive }: any) => {
-  return <About setNavActive={setNavActive} />;
+const Acerca = () => {
+  return <About />;
 };
 
 export default Acerca;
